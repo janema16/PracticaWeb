@@ -1,0 +1,106 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;}
+
+    section {
+        text-align: center;
+        font-size: 50px;
+        color: #000000;
+    }
+
+    section{
+        
+        .imagen-personalizada {
+            width: 300px; /* Cambia este valor al tamaño deseado */
+            height: auto; /* Esto asegura que la proporción se mantenga */
+          }
+          .imagen-personalizada {
+            width: 300px; /* Cambia este valor al tamaño deseado */
+            height: auto; /* Esto asegura que la proporción se mantenga */
+          }
+          .imagen-personalizada {
+            width: 300px; /* Cambia este valor al tamaño deseado */
+            height: auto; /* Esto asegura que la proporción se mantenga */
+          }
+          .imagen-personalizada {
+            width: 300px; /* Cambia este valor al tamaño deseado */
+            height: auto; /* Esto asegura que la proporción se mantenga */
+          }
+          .imagen-personalizada {
+            width: 300px; /* Cambia este valor al tamaño deseado */
+            height: auto; /* Esto asegura que la proporción se mantenga */
+
+            
+          }
+    }
+
+.contenedor{
+    padding: 60px 0;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+    overflow: hidden;
+}
+
+.titulo{
+    color:rgb(78, 78, 78);
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 60px;
+
+}
+
+/* Header */
+
+header{
+    width: 100%;
+    height: 600px;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+
+}
+
+nav{
+    text-align: right;
+    padding: 10px 30px 0 0;
+
+}
+
+nav > a{
+    color: black;
+    font-weight: 700;
+    text-decoration: none;
+    margin-right: 20px;
+
+}
+
+nav > a:hover{
+    text-decoration: underline;
+
+}
+
+/* footer */
+
+footer{
+    background: #000;
+    padding: 60px 0 30px 0;
+    margin: auto;
+    overflow: hidden;
+}
+.content.foo{
+text-align: center;
+}
+
+.content.foo{
+color: rgb(255, 255, 255);
+border-bottom: 2px solid;
+padding-bottom: 5px;
+margin-bottom: 1px;
+
+}
